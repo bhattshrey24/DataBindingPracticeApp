@@ -7,6 +7,7 @@ import com.example.databindingpracticeapp.databinding.ActivityMainBinding
 import com.example.databindingpracticeapp.model.News
 
 // From this vid : https://www.youtube.com/watch?v=9lCIocQ76CI&t=4s
+
 class MainActivity : AppCompatActivity() {
     lateinit var binding: ActivityMainBinding
     override fun onCreate(savedInstanceState: Bundle?) {
